@@ -25,13 +25,14 @@ With over a decade of hands-on experience in web development, blockchain, and pr
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+    <img align="left" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/hardhat-000000?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Ethers.js-F05032?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Web3.js-4EA94B?style=for-the-badge&logo=web3dotjs&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/truffle-2CA5E0?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-Smart%20Contracts-green?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-DeFi-blue?style=for-the-badge" />
-    <img align="left" src="https://img.shields.io/badge/-DEX-339933?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-DEX-339933?style=for-the-badge" />    
   </div>
   <br>
   <br>
