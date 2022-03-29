@@ -20,7 +20,7 @@ With over a decade of hands-on experience in web development, blockchain, and pr
   
 </p>
 
-<br><br>
+<br>
 
 ## Skills
 <div align="center">
