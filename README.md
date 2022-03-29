@@ -20,9 +20,7 @@ With over a decade of hands-on experience in web development, blockchain, and pr
   
 </p>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:bluesilver0702@gmail.com'>bluesilver0702@gmail.com</a>
-</p>
+<br><br>
 
 ## Skills
 <div align="center">
@@ -52,17 +50,9 @@ With over a decade of hands-on experience in web development, blockchain, and pr
     <img align="left" src="https://img.shields.io/badge/-NFT-green?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-Avalanche-red?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-BSC-%237E7FC8?style=for-the-badge" />
-    <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  </div>
-  <br>
-  <br>
-  <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </div>
 </div>
