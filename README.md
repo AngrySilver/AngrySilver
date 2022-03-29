@@ -11,6 +11,9 @@ With over a decade of hands-on experience in web development, blockchain, and pr
 </p>
 
 <p align='center'>
+  <a href="mailto:bluesilver0702@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/keinakano">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
